@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1734297342 source:c:\users\lua.luadesktop\documents\luana\estudos\algoritimos\trabalho-pilhas\pilhas\main.c
+	<stdio.h>
+	"interpret.h"
+	"interpret.c"
+	"stack.h"
+	"stack.c"
+
+1734297340 c:\users\lua.luadesktop\documents\luana\estudos\algoritimos\trabalho-pilhas\pilhas\interpret.h
+
+1734303187 c:\users\lua.luadesktop\documents\luana\estudos\algoritimos\trabalho-pilhas\pilhas\interpret.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"interpret.h"
+	"stack.h"
+
+1734297338 c:\users\lua.luadesktop\documents\luana\estudos\algoritimos\trabalho-pilhas\pilhas\stack.h
+
+1734303229 c:\users\lua.luadesktop\documents\luana\estudos\algoritimos\trabalho-pilhas\pilhas\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
